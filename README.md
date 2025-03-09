@@ -26,9 +26,12 @@ Este proyecto incluye:
 
 · Comunicación entre componentes (Input, Output)
 
-## Visualización del proyecto
+## Capturas de Pantalla
 
-Próximamente agregaré aquí una captura de pantalla o video del funcionamiento de la aplicación.
+![Mi Web](public/assets/captura1.jpg)
+![Mi Web](public/assets/captura2.png)
+![Mi Web](public/assets/captura3.png)
+![Mi Web](public/assets/captura4.png)
 
 ## Despliegue
 
