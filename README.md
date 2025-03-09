@@ -47,6 +47,6 @@ Para más información sobre Angular CLI y sus comandos, visita la documentació
 
 ## Desarrollado por
 
-👩‍💻 Alexandra Ferrera Arenas
+👩‍💻 Alexandra Ferrera
 📚 En proceso de aprendizaje continuo sobre Angular y desarrollo frontend
-🎨 Portfolio: Alexandra Ferrera De Arte[Alexandra Ferrera Desarrolladora Frontend & UX/UI](https://alexandra-ferrera-portfolio.netlify.app/)
+🎨 Portfolio: [Alexandra Ferrera Desarrolladora Frontend & UX/UI](https://alexandra-ferrera-portfolio.netlify.app/)
