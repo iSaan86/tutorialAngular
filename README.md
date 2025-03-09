@@ -40,13 +40,12 @@ ng build
 
 Los archivos se guardarán en el directorio dist/ y estarán optimizados para mejor rendimiento.
 
-
 ## Recursos adicionales
 
 Para más información sobre Angular CLI y sus comandos, visita la documentación oficial.
 
 ## Desarrollado por
 
-👩‍💻 Alexandra Ferrera
-📚 En proceso de aprendizaje continuo sobre Angular y desarrollo frontend
+👩‍💻 Alexandra Ferrera  
+📚 En proceso de aprendizaje continuo sobre Angular y desarrollo frontend  
 🎨 Portfolio: [Alexandra Ferrera Desarrolladora Frontend & UX/UI](https://alexandra-ferrera-portfolio.netlify.app/)
