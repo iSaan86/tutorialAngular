@@ -28,7 +28,7 @@ Este proyecto incluye:
 
 ## Capturas de Pantalla
 
-![Mi Web](public/assets/captura1.jpg)
+![Mi Web](public/assets/captura1.png)
 ![Mi Web](public/assets/captura2.png)
 ![Mi Web](public/assets/captura3.png)
 ![Mi Web](public/assets/captura4.png)
